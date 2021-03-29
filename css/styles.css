@@ -1,0 +1,114 @@
+
+body {
+  text-align: center;
+  margin: 0;
+  color: #40514E;
+
+}
+h2 {
+  font-family: 'Prata', serif;
+  font-size: 1.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'New Tegomin', serif;
+  font-size: 3.5rem;
+  color: #66BFBF;
+}
+.top-container{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+
+}
+.Pro{
+  text-decoration: underline;
+}
+.top-cloud{
+  position:absolute;
+  right: 30%;
+  top: 10%;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 30%;
+  bottom: 45%;
+}
+h3 {
+  color: #11999E;
+}
+a{
+  color: #435560;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 50px auto 50px auto;
+  line-height: 2;
+  padding: 50px;
+}
+.pcFreak{
+  width: 35%;
+  float: left;
+  margin-right: 10%;
+}
+.profile{
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+}
+.photographer{
+  width: 30%;
+  float: right;
+  margin-left: 10%;
+}
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-width: 10px;
+  width: 80px;
+  border-color: #EAF6F6;
+  margin: 50px auto 50px auto;
+}
+.BUTTON_IPF {
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   height: 0;
+   line-height: 0;
+   color: #FFFFFF;
+   font-family: Verdana;
+   width: 118px;
+   font-size: 17px;
+   font-weight: 100;
+   padding: 17px;
+   background-color: #66BFBF;
+   border: solid #337FED 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 30px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px;
+  margin-top: 50px;
+}
+.footer-link{
+  color: #11999E;
+  font-size: 1rem;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  padding: 20px;
+}
+.my-name{
+  color: #EAF6F6;
+  margin-top: 40px;
+}
+.Welcome{
+  width: 50%;
+  margin: auto;
+}
